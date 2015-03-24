@@ -1,4 +1,4 @@
-#' study_area_circle
+#' area.study_area_circle
 #'
 #' study_area_circle
 #' @param xCenter
@@ -12,8 +12,8 @@
 #' @keywords study area
 #' @export
 #' @examples
-#' study_area_circle()
-study_area_circle<-function(xCenter,
+#' area.study_area_circle()
+area.study_area_circle<-function(xCenter,
                             yCenter,
 							radius,
                             name,

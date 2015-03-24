@@ -1,4 +1,4 @@
-#' study_area_square
+#' area.study_area_square
 #'
 #' study_area_square
 #' @param xMin
@@ -11,8 +11,8 @@
 #' @keywords study area
 #' @export
 #' @examples
-#' study_area_square()
-study_area_square<-function(xMin,
+#' area.study_area_square()
+area.study_area_square<-function(xMin,
                             xMax,
                             yMin,
                             yMax,

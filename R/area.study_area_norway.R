@@ -1,4 +1,4 @@
-#' study_area_norway
+#' area.study_area_norway
 #'
 #' study_area_norway 
 #' @param shp shapefile
@@ -8,8 +8,8 @@
 #' @keywords study area
 #' @export
 #' @examples
-#' study_area_norway()
-study_area_norway<-function(shp,
+#' area.study_area_norway()
+area.study_area_norway<-function(shp,
                     name,
 					background.grid,
 					cellsize_background

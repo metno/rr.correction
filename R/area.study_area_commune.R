@@ -1,4 +1,4 @@
-#' study_area_commune
+#' area.study_area_commune
 #'
 #' study_area_commune (Only in Norway so far)
 #' @param shp shapefile
@@ -8,8 +8,8 @@
 #' @keywords study area
 #' @export
 #' @examples
-#' study_area_commune()
-study_area_commune<-function(shp,
+#' area.study_area_commune()
+area.study_area_commune<-function(shp,
                     name,
 					background.grid,
 					cellsize_background
